@@ -19,4 +19,4 @@ http://tatiyants.com/postgres-query-plan-visualization/
 ## 锁机制
 - https://www.cnblogs.com/VicLiu/p/11865481.html
 - https://www.modb.pro/db/48168
-- ShareLock,AccessExclusiveLock,AccessShareLock, 
+- ShareLock,AccessExclusiveLock,AccessShareLock, still waiting for ShareLock on transaction Process holding the lock while locking tuple
