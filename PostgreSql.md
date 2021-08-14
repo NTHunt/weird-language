@@ -14,3 +14,8 @@ https://blog.csdn.net/youngspy23/article/details/50550162
 ## 性能优化
 https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/
 http://tatiyants.com/postgres-query-plan-visualization/
+
+
+## 锁机制
+- https://www.cnblogs.com/VicLiu/p/11865481.html
+- https://www.modb.pro/db/48168
