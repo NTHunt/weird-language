@@ -20,3 +20,6 @@ http://tatiyants.com/postgres-query-plan-visualization/
 - https://www.cnblogs.com/VicLiu/p/11865481.html
 - https://www.modb.pro/db/48168
 - ShareLock,AccessExclusiveLock,AccessShareLock, still waiting for ShareLock on transaction Process holding the lock while locking tuple
+
+## 水平分表，使用postgres表继承
+- https://www.jianshu.com/p/705c359ed76e
